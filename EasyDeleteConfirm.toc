@@ -1,6 +1,7 @@
-## Interface: 90001
+## Interface: 120001, 90001
 ## Author: Kesava
 ## Title: EasyDeleteConfirm
 ## Notes: No longer will you type DELETE.
 
 main.lua
+
